@@ -1,0 +1,3 @@
+﻿  лаба5А.cpp
+C:\Users\Админ\Desktop\OAиП\лаба5А\лаба5А\лаба5А.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  лаба5А.vcxproj -> C:\Users\Админ\Desktop\OAиП\лаба5А\x64\Debug\лаба5А.exe
